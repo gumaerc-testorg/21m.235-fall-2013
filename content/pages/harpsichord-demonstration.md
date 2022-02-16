@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Harpsichord Demonstration
 uid: dbd8736e-0fd3-266c-9def-785aec968ee6
 ---

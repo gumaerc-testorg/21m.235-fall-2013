@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b346c3a6-bacc-892a-f73e-a8003114f9a5
 ---
@@ -53,20 +55,6 @@ Curriculum Information
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo shows the modern tablet armchairs, blackboards that include staves, display, and audio components at the front of the classroom.]({{< resource_file 3148f617-efe1-626d-0f3b-0d6663f3f07e >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Additional classroom equipment included a piano, CD/DVD player, cassette deck, and turntable for audio examples.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
