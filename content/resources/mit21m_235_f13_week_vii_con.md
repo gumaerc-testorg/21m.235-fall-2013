@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ed8cb250-cb80-feb4-8ed5-f03a232e7082
 resourcetype: Document
 title: 'Week VI-VII: Concerto and Tonality'
 uid: 37471981-d468-677e-661b-f0b93f1a0d31

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9f70e8ee-41fe-0ffd-3612-9c8b77ccdc00
 resourcetype: Document
 title: Quiz 3 Guide
 uid: b7a18bd9-1bbf-747d-91b4-c1dcd99debff

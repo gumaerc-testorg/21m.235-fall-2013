@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ed8cb250-cb80-feb4-8ed5-f03a232e7082
 resourcetype: Document
 title: 'Week III: Class notes'
 uid: a8902e14-7bfe-25b7-65bf-4ba5cb434774

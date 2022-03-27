@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ed8cb250-cb80-feb4-8ed5-f03a232e7082
 resourcetype: Document
 title: 'Week I: Monteverdi Class Notes'
 uid: fd072af4-1285-d076-8c54-261f59f67083
