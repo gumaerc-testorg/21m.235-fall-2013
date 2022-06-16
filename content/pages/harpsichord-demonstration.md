@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a video of an interactive session demonstrating
+  the harpsichord.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Harpsichord Demonstration

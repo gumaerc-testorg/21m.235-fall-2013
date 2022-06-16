@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/6cdc19523ff3533caa366857dc7eabed_itLh_yWsOX0.vtt
+file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/6cdc19523ff3533caa366857dc7eabed_itLh_yWsOX0.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

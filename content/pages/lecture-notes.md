@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and exams, and class
+  notes from each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ I
 Introduction and Monteverdi
 {{< tdclose >}}
 {{< tdopen >}}
- [Week I Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_235_f13_week_i_mont)
+ {{% resource_link fd072af4-1285-d076-8c54-261f59f67083 "Week I Class Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ II
 Organ Music, Oratorio and Cantata
 {{< tdclose >}}
 {{< tdopen >}}
- [Week II Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_235_f13_week_ii_org)
+ {{% resource_link b5150114-45a6-0834-2b0b-a3b57ae1f719 "Week II Class Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ III
 Music for Court and Chamber
 {{< tdclose >}}
 {{< tdopen >}}
- [Week III Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_235_f13_week_iii_cl)
+ {{% resource_link a8902e14-7bfe-25b7-65bf-4ba5cb434774 "Week III Class Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ V
 Exam 1 Week
 {{< tdclose >}}
 {{< tdopen >}}
- See [Exam 1 Study Guide]({{< baseurl >}}/pages/study-materials)
+ See {{% resource_link 9f70e8ee-41fe-0ffd-3612-9c8b77ccdc00 "Exam 1 Study Guide" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ VI-VII
 Concerto and Tonality; 1685 Part 1
 {{< tdclose >}}
 {{< tdopen >}}
- [Weeks VI-VII Class Notes (PDF)]({{< baseurl >}}/resources/mit21m_235_f13_week_vii_con)
+ {{% resource_link 37471981-d468-677e-661b-f0b93f1a0d31 "Weeks VI-VII Class Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ X
 Exam 2 Week
 {{< tdclose >}}
 {{< tdopen >}}
- See [Exam 2 Study Guide]({{< baseurl >}}/pages/study-materials)
+ See {{% resource_link 9f70e8ee-41fe-0ffd-3612-9c8b77ccdc00 "Exam 2 Study Guide" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ XIV
 Exam 3 Week and In–Class Presentations
 {{< tdclose >}}
 {{< tdopen >}}
- See [Exam 3 Study Guide]({{< baseurl >}}/pages/study-materials)
+ See {{% resource_link 9f70e8ee-41fe-0ffd-3612-9c8b77ccdc00 "Exam 3 Study Guide" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
