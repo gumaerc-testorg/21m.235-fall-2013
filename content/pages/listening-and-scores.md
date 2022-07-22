@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of required and optional materials for the
+  class including listening, videos, and scores.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening and Scores
 uid: 7356e643-b19a-a07e-c0b6-78b70d413ded
 ---
@@ -138,7 +142,7 @@ _
 
 ### Additional Score
 
-Scheidt, Samuel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cantio Sacra: Christ lag in Todesbanden." (PDF)](http://petrucci.mus.auth.gr/imglnks/usimg/c/c5/IMSLP256354-PMLP15682-Scheidt_Christ_lag_in_Todesbanden_SSWV131.pdf) _Tabulatura nova_.
+Scheidt, Samuel. ["Cantio Sacra: Christ lag in Todesbanden." (PDF)](http://petrucci.mus.auth.gr/imglnks/usimg/c/c5/IMSLP256354-PMLP15682-Scheidt_Christ_lag_in_Todesbanden_SSWV131.pdf) _Tabulatura nova_.
 
 _
 {{< tdclose >}}

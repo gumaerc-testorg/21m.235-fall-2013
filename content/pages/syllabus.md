@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains information on course meeting times, prerequisites,
+  assignments, exams, participation, grading, and the schedule of lecture topics,
+  exams, and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9734d7e1-6de1-41e8-fb01-63fbe8f82081
 ---
@@ -31,7 +36,7 @@ The listening, reading, and outline of the written assignments are detailed belo
 
 Listening, specifically analytical listening in conjunction with scores, is vital to this course. Initially, you should listen to each assignment before and after the class meeting, in order to familiarize yourself with each piece.
 
-Recordings and some scores for each listening assignment are listed in the [Listening and Scores]({{< baseurl >}}/pages/listening-and-scores) section. Please note each class assignment is supplemented with other works by the same composer or longer excerpts than the one assigned for that day. These are _optional_ and placed under the general heading "Not Assigned but Helpful."
+Recordings and some scores for each listening assignment are listed in the {{% resource_link 7356e643-b19a-a07e-c0b6-78b70d413ded "Listening and Scores" %}} section. Please note each class assignment is supplemented with other works by the same composer or longer excerpts than the one assigned for that day. These are _optional_ and placed under the general heading "Not Assigned but Helpful."
 
 The text for this class is:  
 Richard, Taruskin. _Music in the Seventeenth and Eighteenth Centuries_. Oxford University Press, 2011. ISBN: 9780199842155 \[Preview with [Google Books](http://books.google.com/books?id=Or9RybF5lOwC&pg=PAfrontcover)\]  
@@ -44,12 +49,12 @@ When preparing each assignment, I find starting with the music a more rewarding 
 
 You will write three types of papers for this class: an analytic / performance essay, concert reflections / comparisons, and listening outlines.
 
-*   [The analytical essay]({{< baseurl >}}/pages/assignments#The_analytical_essay) (1500 words) is an analysis of a single work or substantial movement from a larger work. (10%)
+*   {{% resource_link ad92a40c-5a84-193a-fec7-c760158ffa1f "The analytical essay" "#The_analytical_essay" %}} (1500 words) is an analysis of a single work or substantial movement from a larger work. (10%)
 
      This essay will then be revised and expanded to a total of 3000 words by comparing performances of the same composition. (15%)
 
-*   [Concert reflection / comparison]({{< baseurl >}}/pages/assignments#Concert_Reports) (500–750 words each). (10% each)
-*   2 [listening outlines]({{< baseurl >}}/pages/assignments#Listening_Outlines) (300–400 words) and presentations. (presentation is part of the participation grade)
+*   {{% resource_link ad92a40c-5a84-193a-fec7-c760158ffa1f "Concert reflection / comparison" "#Concert_Reports" %}} (500–750 words each). (10% each)
+*   2 {{% resource_link ad92a40c-5a84-193a-fec7-c760158ffa1f "listening outlines" "#Listening_Outlines" %}} (300–400 words) and presentations. (presentation is part of the participation grade)
 
 Exams
 -----
