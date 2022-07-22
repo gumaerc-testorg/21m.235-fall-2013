@@ -5,6 +5,7 @@ file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/a8902e147bfe25b7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Week III: Class notes'
 uid: a8902e14-7bfe-25b7-65bf-4ba5cb434774
 ---
 Lecture notes on music for court and chamber.
-

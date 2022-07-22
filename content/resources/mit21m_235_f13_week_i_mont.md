@@ -5,6 +5,7 @@ file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/fd072af41285d076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Week I: Monteverdi Class Notes'
 uid: fd072af4-1285-d076-8c54-261f59f67083
 ---
 Lecture notes on Claudio Monteverdi (1567-1643).
-

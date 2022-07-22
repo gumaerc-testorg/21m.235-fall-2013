@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 21M-235_classroom-1
 uid: 3148f617-efe1-626d-0f3b-0d6663f3f07e
 ---
 Photograph of the classroom used for the course.
-
