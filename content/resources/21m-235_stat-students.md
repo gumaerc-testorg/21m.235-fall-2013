@@ -2,6 +2,7 @@
 content_type: resource
 description: Image indicating course enrollment numbers.
 file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/bfbc6604c532770c6f15157be5a5dda6_21M-235_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
