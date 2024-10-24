@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on organ music, vocal music, oratorio, and cantata.
-file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/b515011445a608342b0ba3b57ae1f719_MIT21M_235_F13_Week_II_Org.pdf
+file: /ol-ocw-studio-app/courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/b515011445a608342b0ba3b57ae1f719_MIT21M_235_F13_Week_II_Org.pdf
 file_size: 101724
 file_type: application/pdf
 learning_resource_types:
