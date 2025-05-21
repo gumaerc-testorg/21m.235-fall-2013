@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of the classroom used for the course.
-file: /ol-ocw-studio-app/courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/3148f617efe1626d0f3b0d6663f3f07e_21M-235_classroom-1.jpg
+file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/3148f617efe1626d0f3b0d6663f3f07e_21M-235_classroom-1.jpg
 file_size: 53357
 file_type: image/jpeg
 image_metadata:
