@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide for a quiz on Baroque and Classical music.
-file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/8245a9b0167540bc8e9617aaaa4de9af_MIT21M_235_F13_Exm_1_Guid.pdf
+file: /ol-ocw-studio-app/courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/8245a9b0167540bc8e9617aaaa4de9af_MIT21M_235_F13_Exm_1_Guid.pdf
 file_size: 578336
 file_type: application/pdf
 learning_resource_types: []

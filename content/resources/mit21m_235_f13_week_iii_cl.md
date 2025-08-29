@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on music for court and chamber.
-file: /courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/a8902e147bfe25b765bf4ba5cb434774_MIT21M_235_F13_Week_III_Cl.pdf
+file: /ol-ocw-studio-app/courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013/a8902e147bfe25b765bf4ba5cb434774_MIT21M_235_F13_Week_III_Cl.pdf
 file_size: 123390
 file_type: application/pdf
 learning_resource_types:
