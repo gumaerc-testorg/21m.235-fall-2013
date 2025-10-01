@@ -8,7 +8,7 @@ title: Harpsichord Demonstration
 uid: dbd8736e-0fd3-266c-9def-785aec968ee6
 ---
 
-MIT students in this course participated in hands-on demonstrations of instruments around campus including the pipe organ in the [MIT Chapel](https://studentlife.mit.edu/cac/event-services-spaces/event-spaces/mit-chapel). The following video documents an interactive session demonstrating the harpsichord that was given by Jean Rife on October 1, 2014 in Killian Hall.
+MIT students in this course participated in hands-on demonstrations of instruments around campus including the pipe organ in the {{% resource_link "b6f937e0-d449-47c1-ab19-306c8591040c" "MIT Chapel" %}}. The following video documents an interactive session demonstrating the harpsichord that was given by Jean Rife on October 1, 2014 in Killian Hall.
 
 {{< resource 7d08fe36-dee6-2d38-dee3-67c2733311f7 >}}
 
