@@ -48,7 +48,7 @@ The largest written assignment for 21M.235 is the analytical essay. This assignm
 ### Requirements Satisfied
 
 - CI-M ![](/images/educator/icon-question-cim.png) subject requirement
-- This course satisfies requirements for music [major](http://catalog.mit.edu/degree-charts/music-course-21m/), [minor](http://catalog.mit.edu/schools/humanities-arts-social-sciences/music-theater-arts/#music-minor), and [concentration](http://mta.mit.edu/music/degree-requirements/music-concentration) degrees, but is not required.
+- This course satisfies requirements for music {{% resource_link "b7092ede-c41f-47c4-89b2-27c3b27d5be3" "major" %}}, {{% resource_link "d6d8af47-a60b-41de-9f83-b3bff5a32aae" "minor" %}}, and {{% resource_link "7ed3e7fa-c4c1-4561-886b-5057810401fc" "concentration" %}} degrees, but is not required.
 
 ### Offered
 
