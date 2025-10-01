@@ -8,7 +8,7 @@ title: Readings
 uid: 0a86e6bc-efd9-2a3c-11af-b5901e42b16d
 ---
 
-\[Taruskin\] = Taruskin, Richard. _Music in the Seventeenth and Eighteenth Centuries_. Oxford University Press, 2011. ISBN: 9780199842155. \[Preview with [Google Books](http://books.google.com/books?id=Or9RybF5lOwC&pg=PAfrontcover)\]
+\[Taruskin\] = Taruskin, Richard. _Music in the Seventeenth and Eighteenth Centuries_. Oxford University Press, 2011. ISBN: 9780199842155. \[Preview with {{% resource_link "cf912258-fbca-4d01-8541-4f876ea1ecb9" "Google Books" %}}\]
 
 Daily Assignments
 -----------------
