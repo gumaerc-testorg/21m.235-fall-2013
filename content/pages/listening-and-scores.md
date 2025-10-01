@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Listening and Scores
 uid: 7356e643-b19a-a07e-c0b6-78b70d413ded
 ---
-\[Taruskin\] = Taruskin, Richard. *Music in the Seventeenth and Eighteenth Centuries*. Oxford University Press, 2011. ISBN: 9780199842155. \[Preview with [Google Books](http://books.google.com/books?id=Or9RybF5lOwC&pg=PAfrontcover)\]
+\[Taruskin\] = Taruskin, Richard. *Music in the Seventeenth and Eighteenth Centuries*. Oxford University Press, 2011. ISBN: 9780199842155. \[Preview with {{% resource_link "cf912258-fbca-4d01-8541-4f876ea1ecb9" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -36,27 +36,27 @@ Monteverdi, Claudio. "O rosetta." *Scherzi Musicali*. From: *Scherzi Musicali a 
 
 ———. "Gloria patri." *Vespers of the Blessed Virgin*. Seraphic Fire Media, Seraphic Fire Media, 1995.
 
-———. *Orfeo*, Act II excerpts. Video: 30:50-32:20 and 34:14-35:35. Zeno Lugoboni. "Orfeo–Monteverdi." June 21, 2012. YouTube. Accessed February 19, 2014. [http://www.youtube.com/watch?v=3Ma4OelX45I](http://www.youtube.com/watch?v=3Ma4OelX45I)
+———. *Orfeo*, Act II excerpts. Video: 30:50-32:20 and 34:14-35:35. Zeno Lugoboni. "Orfeo–Monteverdi." June 21, 2012. YouTube. Accessed February 19, 2014. {{% resource_link "f20dea24-911f-442c-87a1-6d9a6f254f28" "http://www.youtube.com/watch?v=3Ma4OelX45I" %}}
 
-———. "Tu se' morta," and "Ahi caso acerbo." *L'Orfeo*. Video: Musicamisteri. "L'Orfeo de Monteverdi–Acto II - "Tu se'morta" (Pista 9b Barroco 1)." January 23, 2009. YouTube. Accessed February 19, 2014. [http://www.youtube.com/watch?v=8ll_u870PG8](http://www.youtube.com/watch?v=8ll_u870PG8)
+———. "Tu se' morta," and "Ahi caso acerbo." *L'Orfeo*. Video: Musicamisteri. "L'Orfeo de Monteverdi–Acto II - "Tu se'morta" (Pista 9b Barroco 1)." January 23, 2009. YouTube. Accessed February 19, 2014. {{% resource_link "10e5237d-76c6-406f-a625-b7ec11ae1ccf" "http://www.youtube.com/watch?v=8ll_u870PG8" %}}
 
 ———. "Addio, Roma," "Hoggi sarà Poppea," and "Pur ti miro." *L'incoronazione di Poppea*, Act III. From: *L' incoronazione di Poppea*. Richard Hickox. Harmonia Mundi, 2010.
 
-———. "Addio Roma." *L'incoronazione di Poppea*. Video: stolof. "Ann Hallenberg–L'incoronazione di Poppea–Ottavia–Addio Roma." June 21, 2012. Accessed February 19, 2014. YouTube. [http://www.youtube.com/watch?v=JGnA3v-IBGg](http://www.youtube.com/watch?v=JGnA3v-IBGg)
+———. "Addio Roma." *L'incoronazione di Poppea*. Video: stolof. "Ann Hallenberg–L'incoronazione di Poppea–Ottavia–Addio Roma." June 21, 2012. Accessed February 19, 2014. YouTube. {{% resource_link "79571d45-1e22-4f43-9361-1424aca2e461" "http://www.youtube.com/watch?v=JGnA3v-IBGg" %}}
 
-———. "Addio Roma." *L'incoronazione di Poppea*. Video: Sarma230. "Monteverdi–L'Incoronazione di Poppea–Addio Roma, addio patria, amici addio–Act 3." December 5, 2010. YouTube. Accessed February 19, 2014. [http://www.youtube.com/watch?v=HTgbnJ20u2U](http://www.youtube.com/watch?v=HTgbnJ20u2U)
+———. "Addio Roma." *L'incoronazione di Poppea*. Video: Sarma230. "Monteverdi–L'Incoronazione di Poppea–Addio Roma, addio patria, amici addio–Act 3." December 5, 2010. YouTube. Accessed February 19, 2014. {{% resource_link "59632ea5-a095-491d-8bec-40d99b8ea2b9" "http://www.youtube.com/watch?v=HTgbnJ20u2U" %}}
 
-———. "Hoggi sarà Poppea." *L'incoronazione di Poppea*. Video: bejun. "L'incoronazione di poppea–Hoggi sarà Poppea." August 9, 2007. Accessed February 19, 2014. [http://www.youtube.com/watch?v=xYf7eP4bmYA](http://www.youtube.com/watch?v=xYf7eP4bmYA)
+———. "Hoggi sarà Poppea." *L'incoronazione di Poppea*. Video: bejun. "L'incoronazione di poppea–Hoggi sarà Poppea." August 9, 2007. Accessed February 19, 2014. {{% resource_link "ef881bd7-3c17-4708-b215-4a556942202a" "http://www.youtube.com/watch?v=xYf7eP4bmYA" %}}
 
-———. "Pur ti miro." *L'incoronazione di Poppea*. Video: Jammy7000. "Monteverdi–L' Incoronazione di Poppea 3." May 23, 2008. YouTube. Accessed February 19, 2014. [http://www.youtube.com/watch?v=4pjXfChGWds](http://www.youtube.com/watch?v=4pjXfChGWds)
+———. "Pur ti miro." *L'incoronazione di Poppea*. Video: Jammy7000. "Monteverdi–L' Incoronazione di Poppea 3." May 23, 2008. YouTube. Accessed February 19, 2014. {{% resource_link "b80250f4-eff1-48a4-ab4e-825a7ba74bf1" "http://www.youtube.com/watch?v=4pjXfChGWds" %}}
 
-———. "Pur ti miro." *L'incoronazione di Poppea*. fVideo: DynamicOperaClassic. "L'incoronazione di Poppea "Pur ti miro, Pur ti godo" (Jaroussky, De Niese)." February 21, 2012. YouTube. Accessed February 19, 2014. [http://www.youtube.com/watch?v=_isL0E-4TsQ](http://www.youtube.com/watch?v=_isL0E-4TsQ)
+———. "Pur ti miro." *L'incoronazione di Poppea*. fVideo: DynamicOperaClassic. "L'incoronazione di Poppea "Pur ti miro, Pur ti godo" (Jaroussky, De Niese)." February 21, 2012. YouTube. Accessed February 19, 2014. {{% resource_link "2631ac46-daff-4c37-81e3-c59d577e80f1" "http://www.youtube.com/watch?v=_isL0E-4TsQ" %}}
 
 ### Assigned Scores
 
 \[Taruskin\] Examples: 1–1, 1–2, 1–3, 1–4, 1–5, 1–6, 1–7, 1–8, 1–9, 1–10, 1–11, 1–12, and 1–15.
 
-Monteverdi, Claudio. [*Madrigali Libros VI, VII, VIII*](http://www.utorpheus.com/series.php?code=mont&language=en). Ut Orpheus Edizioni (Urtext).
+Monteverdi, Claudio. {{% resource_link "5108b5dd-53ed-4f11-abb5-fcac856c2482" "*Madrigali Libros VI, VII, VIII*" %}}. Ut Orpheus Edizioni (Urtext).
 
 ———. "Cruda Amarilli."  *Norton Anthology of Western Music*. 6th ed. W. W. Norton & Company, 2009. ISBN: 9780393931273.
 
@@ -72,7 +72,7 @@ Monteverdi, Claudio. *Vespers of the Blessed Virgin*. From: *Monteverdi: Vespers
 
 ———. "Ecco la sconsolata donna." *L'Incoronazione Di Poppea*. From: *L'Incoronazione Di Poppea*. Concentus musicus Wien, Nikolaus Harnoncourt. Teldec, 1993.
 
-———. "Come dolce." *L'incoronazione di Poppea*. Video: shuunya. "Alice Coote–l'incoronazione di poppea–act 1, scene 10." August 8, 2008. YouTube. Accessed on February 19. 2014. [http://www.youtube.com/watch?v=nJqT0DkstxM](http://www.youtube.com/watch?v=nJqT0DkstxM)
+———. "Come dolce." *L'incoronazione di Poppea*. Video: shuunya. "Alice Coote–l'incoronazione di poppea–act 1, scene 10." August 8, 2008. YouTube. Accessed on February 19. 2014. {{% resource_link "4005c4a5-e69f-4140-b175-b73ae2282910" "http://www.youtube.com/watch?v=nJqT0DkstxM" %}}
 
 ### Additional Score
 
@@ -120,7 +120,7 @@ Frescobaldi, Girolamo. "Cento partite sopra passacagli." From: *Frescobaldi, Har
 
 ### Additional Score
 
-Scheidt, Samuel. ["Cantio Sacra: Christ lag in Todesbanden." (PDF)](https://imslp.org/wiki/Special:ImagefromIndex/133390/hfzn) *Tabulatura nova*.
+Scheidt, Samuel. {{% resource_link "0baec12b-7bdd-4ffa-bd9e-e979a0c7464a" "\"Cantio Sacra: Christ lag in Todesbanden.\" (PDF)" %}} *Tabulatura nova*.
 
 \_
 
@@ -158,7 +158,7 @@ Rameau, Jean-Phillipe. Act 3, sc. 4. *Castor et Pollux*. Avant-Scene Opéra, 200
 
 \[Taruskin\] Examples: 3–7A, 3–12A, 3–13, and 3–15.
 
-Purcell, Henry, and William Shakespeare. [*The Fairy Queen: an Opera in five acts*.](http://www.worldcat.org/title/fairy-queen-an-opera-in-five-acts/oclc/800869869) Broude Brothers, 1966.
+Purcell, Henry, and William Shakespeare. {{% resource_link "1e48c5b6-7177-45ec-9db2-dfae27f6cf6e" "*The Fairy Queen: an Opera in five acts*." %}} Broude Brothers, 1966.
 
 Purcell, Henry. Excerpts. *Dido and Aeneas.* *Dido and Aeneas: An Opera*. Purcell Society Score. W. W. Norton & Company, 1986, pp. 83–7, 94–7, 176–9. ISBN: 9780393955286.
 
@@ -324,7 +324,7 @@ Scarlatti, Domenico. "Vivo." *Keyboard Sonata in E, K 264*. From: *D. Scarlatti 
 
 Bach, C. P. E. *Prussian Sonata no. 1 in F*. From: *C. P. E. Bach: The Solo Keyboard Music, Prussian Solatas. Vol. 1*. Miklós Spányi. Bis, 1998. Tracks 4–6.
 
-Pergolesi, Giovanni Battista. Excerpt: "Ah, poveretta lei." *La Serva Padrona*. Video: anamorphosis1968. "Pergolesi–La serva padrona–Ah! poveretta lei!" November 13, 2008. YouTube. Accessed February 26, 2014. [http://www.youtube.com/watch?v=EQwnhrO-WAA&feature=relmfu](http://www.youtube.com/watch?v=EQwnhrO-WAA&feature=relmfu)
+Pergolesi, Giovanni Battista. Excerpt: "Ah, poveretta lei." *La Serva Padrona*. Video: anamorphosis1968. "Pergolesi–La serva padrona–Ah! poveretta lei!" November 13, 2008. YouTube. Accessed February 26, 2014. {{% resource_link "25fe029e-6b33-466d-be50-24e621004e12" "http://www.youtube.com/watch?v=EQwnhrO-WAA&feature=relmfu" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 X
