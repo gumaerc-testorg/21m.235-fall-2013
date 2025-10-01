@@ -39,7 +39,7 @@ Listening, specifically analytical listening in conjunction with scores, is vita
 Recordings and some scores for each listening assignment are listed in the {{% resource_link 7356e643-b19a-a07e-c0b6-78b70d413ded "Listening and Scores" %}} section. Please note each class assignment is supplemented with other works by the same composer or longer excerpts than the one assigned for that day. These are _optional_ and placed under the general heading "Not Assigned but Helpful."
 
 The text for this class is:  
-Richard, Taruskin. _Music in the Seventeenth and Eighteenth Centuries_. Oxford University Press, 2011. ISBN: 9780199842155 \[Preview with [Google Books](http://books.google.com/books?id=Or9RybF5lOwC&pg=PAfrontcover)\]  
+Richard, Taruskin. _Music in the Seventeenth and Eighteenth Centuries_. Oxford University Press, 2011. ISBN: 9780199842155 \[Preview with {{% resource_link "cf912258-fbca-4d01-8541-4f876ea1ecb9" "Google Books" %}}\]  
 Assigned readings will be taken from this text. This is one of the most comprehensive books available and written in a challenging but accessible prose. There are also substantial score excerpts in the text which aid in understanding the author's analysis of the piece.  
 _Please bring your book to class meetings!_
 
